@@ -1,4 +1,4 @@
-# Task 2 - Predictive Modeling Using Machine Learning
+# Predictive Modeling Using Machine Learning
 
 **Objective:** Build a supervised model to predict outcomes from data, train/test it, and visualize performance.
 
